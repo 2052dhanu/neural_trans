@@ -1,4 +1,5 @@
 Neural-Style-Transfer
+
 Company: CODTECH IT SOLUTIONS | Name: Dhanashree Keshav Rode | Intern ID: CT08DF2165 | Domain: Artificial Intelligence | Duration: 8 weeks | Mentor: Neela Santosh
 
 This project implements Neural Style Transfer using TensorFlow and a pre-trained model to blend content and style images. Built and tested on Google Colab for easy replication and cloud-based execution. Styled image examples are displayed directly in main.ipynb as part of the output.
